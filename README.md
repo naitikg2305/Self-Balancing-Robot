@@ -41,8 +41,8 @@ We routed power from the 12V battery through buck converters to deliver clean 5V
 
 The chassis was designed using Fusion360 and printed with PLA. The base houses the motors, driver, and battery. A custom bracket mounts the IMU at wheel axle level to reduce measurement noise. Zip ties and shrink tubing were used to secure and organize wires.
 
-![alt text](image_975144.jpg) 
-![alt text](image_557081.jpg)
+![alt text](self-balance/image_975144.jpg) 
+![alt text](self-balance/image_557081.jpg)
 
 ---
 
@@ -89,7 +89,7 @@ Refer to the shopping list document for exact components. Major items include:
 - 2x Buck Converters
 - Custom 3D Printed Frame
 - Darth Vader Figurine 😎
-![Alt Text](image_577248.jpg)
+![Alt Text](self-balance/image_577248.jpg)
 
 ---
 ## 🔌 Wiring Table
@@ -136,13 +136,4 @@ This project was a successful application of control theory, hardware integratio
 
 ---
 
-## 📁 Appendix
 
-- [Final Report (PDF)](link-to-pdf)
-- [Shopping List (PDF)](link-to-shopping-list)
-- [Proposal and Technical Details](link-to-proposal)
-- [Demo Videos](https://drive.google.com/drive/folders/1PLejTndw4LxtoSVA8v18seIj9uFeChZ4?usp=sharing)
-
----
-
-Stay tuned—photos and source code will be added soon!
